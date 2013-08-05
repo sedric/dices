@@ -1,0 +1,4 @@
+dices
+=====
+
+Simple dice roller
