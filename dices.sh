@@ -7,7 +7,7 @@ function roll()
 
     for nbr in $(seq 1 $1)
     do
-	# I know, it sucks because I loose some randomness, but it's probably not realy usefull here
+	# I know, it sucks because I lose some randomness, but it's probably not realy usefull here
 	# +1 : because RANDOM began to 0
 	local result=$(($RANDOM % $2 + 1))
 	results="$results $result"

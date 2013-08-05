@@ -6,7 +6,7 @@ Simple dice roller
 Why
 ===
 
-Just wanted to roll some dice for a RPG session. But doesn't have an internet connection. So i code a simple script.
+Just wanted to roll some dice for a RPG session. But didn't have an internet connection. So I coded a simple script.
 
 How
 ===
