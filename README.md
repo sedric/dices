@@ -13,7 +13,7 @@ How
 
 As if you write it.
 
-If I need to roll a D4 with a bonus and 2 D6 with a malus, juste launch :
+If I need to roll a D4 with a bonus and 2 D6 with a malus, just launch :
 
     # ./dices.sh 1d4+1 2D6-2
     1d4+1 : 4 ( 3)
